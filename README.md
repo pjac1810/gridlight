@@ -83,3 +83,5 @@ L'installation se fait depuis la page Install (Chrome ou Edge, FM-1 branché en 
 ## Licence
 
 GPL-3.0-only. Crédits : [LICENSING.md](LICENSING.md).
+
+You can also try Gridlight in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
